@@ -1,6 +1,6 @@
-# Ableton Live App-Resources
+# Ableton Live MIDI Remote Scripts
 
-This repo contains the decompiled Python source from the `App-Resources` folder inside the `Ableton Live 9 Trial.app` bundle. As this is an experiment, only the contents of the `MIDI Remote Scripts/Push2` folder have been processed.
+This repo contains the decompiled Python source from the `App-Resources/MIDI Remote Scripts` folder inside the `Ableton Live 9 Trial.app` bundle. As this is an experiment, only the contents of the `Push2` folder have been processed.
 
 ## Build
 
