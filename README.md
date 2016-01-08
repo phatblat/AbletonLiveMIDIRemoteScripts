@@ -15,7 +15,7 @@ pydc /Applications/Ableton\ Live\ 9\ Suite.app/Contents/App-Resources/MIDI\ Remo
 Note that these source files may not work with any other version of the app or for other platforms.
 
 - Ableton Live 9
-- Edition: Trial
+- Edition: Suite
 - Version: 9.5
 - Build: 2015-10-20_fb925932c5 (64-bit)
 - Platform: Mac
