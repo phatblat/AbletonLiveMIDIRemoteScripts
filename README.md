@@ -7,7 +7,7 @@ This repo contains the decompiled Python source from the `App-Resources/MIDI Rem
 Source files were built using [Decompyle++](https://github.com/zrax/pycdc).
 
 ```
-pydc /Applications/Ableton\ Live\ 9\ Trial.app/Contents/App-Resources/MIDI\ Remote\ Scripts/Push2/*.pyc > *.py
+pydc /Applications/Ableton\ Live\ 9\ Suite.app/Contents/App-Resources/MIDI\ Remote\ Scripts/Push2/*.pyc > *.py
 ```
 
 ## Version Info
