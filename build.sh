@@ -5,7 +5,7 @@ decompyle_path="pycdc"
 
 # The starting point for traversing the dir tree looking for .pyc files
 input_dir="/Applications/Ableton\ Live\ 9\ Trial.app/Contents/App-Resources/MIDI\ Remote\ Scripts/Push2"
-output_dir="MIDI Remote Scripts/Push2"
+output_dir="Push2"
 
 # Ensure output_dir tree exists
 mkdir -p "${output_dir}"
